@@ -1,1 +1,1 @@
-A starter repo for web projects.
+An idle game put on a single page multiple times.
